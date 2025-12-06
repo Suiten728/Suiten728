@@ -7,6 +7,7 @@
 noteにて記載してます！　https://note.com/suiten0728/n/n24a0244ab92a
 
 [![wakatime](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd.svg)](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suiten728&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 # Contact me
 
