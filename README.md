@@ -6,7 +6,7 @@
 ## Owner/ModをしているDiscord鯖
 noteにて記載してます！　https://note.com/suiten0728/n/n24a0244ab92a
 
-[![wakatime](https://wakatime.com/badge/user/426e61d3-f6b7-4324-bdf6-c87be0cdc667.svg)](https://wakatime.com/@426e61d3-f6b7-4324-bdf6-c87be0cdc667)
+[![wakatime](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd.svg)](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Suiten728&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 # Contact me
 
