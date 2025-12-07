@@ -4,7 +4,7 @@
 コーディング依頼等は内容によって受け付けます。
 
 ## Owner/ModをしているDiscord鯖
-noteにて記載してます！　https://note.com/suiten0728/n/n24a0244ab92a
+[note](https://note.com/suiten0728/n/n24a0244ab92a)にて掲載しています！
 
 [![wakatime](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd.svg)](https://wakatime.com/badge/user/d5e71538-72fa-44f4-9802-a5b9f17098fd)
 
