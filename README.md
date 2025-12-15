@@ -20,13 +20,13 @@
 ### Language
 <img src="https://skillicons.dev/icons?i=python,bots,c,cpp,html,css" /> <br />
 ### APP
-<img src="https://skillicons.dev/icons?i=discord,vscode,arduino,cloudflare,notion" /> <br />
+<img src="https://skillicons.dev/icons?i=discord,vscode,arduino,cloudflare,notion,androidstudio" /> <br />
 ### OS,DB
-<img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,wordpress,postgres,sqlite" /> <br />
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,raspberrypi,wordpress,postgres,sqlite,mysql" /> <br />
 
 # Training now
 
-<img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js,unity" /> <br />
+<img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,js,unity,php" /> <br />
 
 <div align="center">
   <h4 color="#a1a5c6">©2025 Suiten</h4>
